@@ -1,0 +1,8 @@
+{
+  "type":[
+    "Beer",
+    "Wine",
+    "Spirits",
+    "Cider"
+  ]
+}
